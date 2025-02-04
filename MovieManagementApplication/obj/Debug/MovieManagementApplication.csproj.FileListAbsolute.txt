@@ -1,0 +1,8 @@
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\obj\Debug\MovieManagementApplication.csproj.AssemblyReference.cache
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\obj\Debug\MovieManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\obj\Debug\MovieMan.1737EF08.Up2Date
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\bin\Debug\MovieManagementApplication.dll
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\bin\Debug\MovieManagementApplication.pdb
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\obj\Debug\MovieManagementApplication.dll
+C:\Users\shubhi_chourey\Desktop\movie-management-main\Epam.MovieManagement.Application\obj\Debug\MovieManagementApplication.pdb
