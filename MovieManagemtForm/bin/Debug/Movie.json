@@ -1,0 +1,26 @@
+{
+  "1": {
+    "MovieId": 1,
+    "Title": "Drishyam",
+    "Genre": "Thriller, Crime, Drama",
+    "Cast": "Ajay Devgn, Tbu, Shriya Saran, Ishita Dutta",
+    "ReleasedYear": 2015,
+    "Director": "Nishikant Kamat"
+  },
+  "2": {
+    "MovieId": 2,
+    "Title": "Inception",
+    "Genre": "Sci-Fi, Action, Thriller",
+    "Cast": "Leonardo DiCaprio, Joseph Gordon-Levitt,Tom Hardy",
+    "ReleasedYear": 2010,
+    "Director": "Christopher Nolan"
+  },
+  "3": {
+    "MovieId": 3,
+    "Title": "Interstellar",
+    "Genre": "Sci-Fi, Adventure",
+    "Cast": "Matthew McConaughey, Anne Hathway",
+    "ReleasedYear": 2014,
+    "Director": "Christopher Nolan"
+  }
+}
